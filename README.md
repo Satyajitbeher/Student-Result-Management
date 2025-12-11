@@ -1,3 +1,4 @@
+
 # Student-Result-Management
 Student Result Management System in Java Swing - Console &amp; GUI version for managing student details and marks. Features add, view, and search student records with file-based storage.
 # Student Result Management System
@@ -26,3 +27,6 @@ Student data is stored in a **file (students.txt)** for persistence.
 -->   java ui.MainUI
 
    javac model/*.java manager/*.java ui/MainUI.java
+   OutPut
+   --------
+   <img width="1920" height="1080" alt="StudentResultSystem,output" src="https://github.com/user-attachments/assets/a36a4668-21c2-43ff-9037-7a81c735d41d" />
